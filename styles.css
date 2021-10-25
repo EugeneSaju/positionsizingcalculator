@@ -1,0 +1,44 @@
+h1 {
+  padding: 20px;
+  text-align: center;
+}
+
+hr {
+  height: 5px;
+  border: none;
+  background: black;
+  margin-bottom: 25px;
+}
+
+.Calculator {
+  margin-left: 8rem;
+}
+
+.Target {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+.main{
+  margin-left: 50px;
+}
+
+.Target-Heading{
+  margin-top: 50px;
+  margin-left: 150px;
+  font-weight: bold;
+}
+
+.Sl-Heading{
+  margin-top: 25px;
+  margin-left: 150px;
+  font-weight: bold;
+}
+.trgt{
+  margin-top: 25px;
+}
+.Qty-Heading{
+  margin-left: 150px;
+  margin-top: 25px;
+  font-weight: bold;
+}
