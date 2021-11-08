@@ -20,7 +20,7 @@ document.querySelector(".Sl-Heading").style.color = "red";
 
 function quantity(){
   var percent = parseFloat(document.getElementById("inp1").value);
-  var qty = Math.floor(50000/percent);
+  var qty = Math.floor(220000/percent);
   document.querySelector(".Qty-Heading").innerHTML = "Quantity= " + qty;
 
 }
